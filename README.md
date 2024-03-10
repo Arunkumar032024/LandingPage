@@ -1,0 +1,2 @@
+# A Landing Page
+A landing page is a standalone web page designed for a specific marketing or advertising campaign. It's where visitors 'land' after clicking on a link, often with the goal of converting them into customers or capturing them information. Landing pages typically focus on a single call-to-action, providing relevant content and encouraging users to take a specific desired action, such as making a purchase or signing up for a newsletter.
