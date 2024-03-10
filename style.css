@@ -74,7 +74,10 @@ section h2{
 }
 
 @media (max-width:592px) {
-    /* video{
-        height: 100vh;
-    } */
+    section{
+        top: 25%;
+    }
+    section h2{
+        font-size: 1.5rem;
+    }
 }
